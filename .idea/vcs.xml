@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/APIPaycenterAdapter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/consent mgnt folder/consent-service-bank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/consent mgnt folder/consent-service-commons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/consent mgnt folder/consent-service-management" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/consent mgnt folder/consent-service-models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fcmbapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/moneytransferapplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multiview_admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/payouthubservice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/qcell_api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simbapayapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/usermanagement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zambezi" vcs="Git" />
+  </component>
+</project>

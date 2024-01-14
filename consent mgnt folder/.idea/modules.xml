@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/consent mgnt folder.iml" filepath="$PROJECT_DIR$/.idea/consent mgnt folder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consent-service-management/consent-service-management.iml" filepath="$PROJECT_DIR$/consent-service-management/consent-service-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consent-service-models/consent-service-models.iml" filepath="$PROJECT_DIR$/consent-service-models/consent-service-models.iml" />
+    </modules>
+  </component>
+</project>
